@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zgadywanka", "Zgadywanka\Zgadywanka.csproj", "{DCACD67B-1753-4C19-83C3-1893590F136D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DCACD67B-1753-4C19-83C3-1893590F136D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCACD67B-1753-4C19-83C3-1893590F136D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCACD67B-1753-4C19-83C3-1893590F136D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCACD67B-1753-4C19-83C3-1893590F136D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B8235AA1-237E-49F5-9FD2-E9F653B27826}
+	EndGlobalSection
+EndGlobal
